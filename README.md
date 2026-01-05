@@ -1,5 +1,7 @@
 This is a cellular automaton engine written in C++ using SDL for rendering.
 
+NOTE - the vendored/ directory is not included in this repo because of the size of the SDL3 library. SDL3 must be added under the vendored/ directory before this code can be compiled.
+
 ## Example Builds
 There are 5 example builds included in this project under the example_builds/ directory:
 
